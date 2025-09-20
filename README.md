@@ -1,14 +1,37 @@
-# Plane-crash-Fatality-Analysis
-Built an interactive Power BI dashboard analyzing global airplane crashes from 1908 onwards to uncover insights into crash frequency, causes, survival rates, and seasonal trends.
+# Airplane Crashes Analysis – Power BI 
 
-Key Highlights:
-• Cleaned and transformed raw dataset using Power Query
-• Designed data model and built relationships for accurate filtering and interaction
-• Created custom DAX measures for KPIs like Survival Rate, Fatality %, Total Crashes, and Monthly Trends
-• Developed multiple interactive visuals:
- – Pie chart showing survival vs fatal crashes
- – Trend line showing fatality % over time
- – Bar/Column charts for top aircraft types and operators involved in crashes
- – Donut chart for crash cause distribution
- – Seasonal and map-based crash trend analysis
-• Implemented slicers (month, year, crash category) for dynamic user-driven analysis
+## 📌 Project Overview
+This project analyzes global airplane crashes from 1908 onwards to uncover insights into crash frequency, causes, survival rates, and seasonal trends.  
+The goal was to practice end-to-end data analysis using  Power BI, and DAX while presenting insights in a clear and interactive format.  
+
+## 🛠️ Tools & Skills Used
+- **Excel** → Initial cleaning & formatting  
+- **Power Query** → Data transformation in Power BI  
+- **Power BI Desktop** → Dashboard design, interactive visuals, KPI cards  
+- **DAX Measures** → Survival rate, fatality %, monthly trends, top causes  
+
+
+## 📂 Dataset
+- Source: [Kaggle – Airplane Crashes and Fatalities Since 1908](https://www.kaggle.com/datasets/saurograndi/airplane-crashes-since-1908)  
+- Rows: ~5,000+ crash records  
+- Key fields: Date, Location, Operator, Fatalities, Aboard, Survivors, Cause  
+
+
+## 📊 Dashboard Highlights
+- **KPIs:** Total crashes, total fatalities, survival rate, fatality %  
+- **Trends:** Monthly & yearly crash distribution  
+- **Geography:** Map visualization of crash locations  
+- **Breakdown:** Crashes by operator, time period, and cause  
+
+
+## 🔑 Key Insights
+- Majority of crashes occurred between 1940–1980, declining significantly in recent decades  
+- Survival rates improved after 2000 with better safety protocols  
+- Certain operators and regions had disproportionately higher crash frequencies  
+- Seasonal variation observed, with higher crash incidents in specific months  
+
+
+## 📬 Contact
+👩‍💻 Pranjali Mishra  
+- LinkedIn: www.linkedin.com/in/pranjali-093bb1168
+- Portfolio- (https://github.com/Pranjali2712)
